@@ -1,4 +1,7 @@
 # Sentiment-Analysis
-Why is this relevant? Because emotional content is an important part of language.
-In this I will cover some libraries which can be used to find basic sentiments
-of the text i.e how positive or negative is the content of a text document.
+Implementation of python text libraries for sentiment analysis of sentences:
+
+Data source
+UCI Machine Learning Repository
+Sentiment Labelled Sentences Data Set 
+https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
